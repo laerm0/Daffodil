@@ -42,11 +42,19 @@ designerURL = www.measureandfit.co;
 familyName = Daffodil;
 fontMaster = (
 {
-ascender = 800;
-capHeight = 700;
-descender = -200;
+alignmentZones = (
+"{870, 16}",
+"{800, 31}",
+"{450, 31}",
+"{0, -31}",
+"{-850, -31}"
+);
+ascender = 870;
+capHeight = 800;
+descender = -850;
 id = "681AEF1D-5097-4A91-9334-5A92232AED3B";
-xHeight = 500;
+italicAngle = 20.7;
+xHeight = 450;
 }
 );
 glyphs = (
@@ -55,7 +63,7 @@ glyphname = A;
 layers = (
 {
 layerId = "681AEF1D-5097-4A91-9334-5A92232AED3B";
-width = 600;
+width = 1600;
 }
 );
 unicode = 0041;
@@ -65,7 +73,7 @@ glyphname = B;
 layers = (
 {
 layerId = "681AEF1D-5097-4A91-9334-5A92232AED3B";
-width = 600;
+width = 1600;
 }
 );
 unicode = 0042;
@@ -75,7 +83,7 @@ glyphname = C;
 layers = (
 {
 layerId = "681AEF1D-5097-4A91-9334-5A92232AED3B";
-width = 600;
+width = 1600;
 }
 );
 unicode = 0043;
@@ -85,7 +93,7 @@ glyphname = D;
 layers = (
 {
 layerId = "681AEF1D-5097-4A91-9334-5A92232AED3B";
-width = 600;
+width = 1600;
 }
 );
 unicode = 0044;
@@ -95,7 +103,7 @@ glyphname = E;
 layers = (
 {
 layerId = "681AEF1D-5097-4A91-9334-5A92232AED3B";
-width = 600;
+width = 1600;
 }
 );
 unicode = 0045;
@@ -105,7 +113,7 @@ glyphname = F;
 layers = (
 {
 layerId = "681AEF1D-5097-4A91-9334-5A92232AED3B";
-width = 600;
+width = 1600;
 }
 );
 unicode = 0046;
@@ -115,7 +123,7 @@ glyphname = G;
 layers = (
 {
 layerId = "681AEF1D-5097-4A91-9334-5A92232AED3B";
-width = 600;
+width = 1600;
 }
 );
 unicode = 0047;
@@ -125,7 +133,7 @@ glyphname = H;
 layers = (
 {
 layerId = "681AEF1D-5097-4A91-9334-5A92232AED3B";
-width = 600;
+width = 1600;
 }
 );
 unicode = 0048;
@@ -135,7 +143,7 @@ glyphname = I;
 layers = (
 {
 layerId = "681AEF1D-5097-4A91-9334-5A92232AED3B";
-width = 600;
+width = 1600;
 }
 );
 unicode = 0049;
@@ -145,7 +153,7 @@ glyphname = J;
 layers = (
 {
 layerId = "681AEF1D-5097-4A91-9334-5A92232AED3B";
-width = 600;
+width = 1600;
 }
 );
 unicode = 004A;
@@ -155,7 +163,7 @@ glyphname = K;
 layers = (
 {
 layerId = "681AEF1D-5097-4A91-9334-5A92232AED3B";
-width = 600;
+width = 1600;
 }
 );
 unicode = 004B;
@@ -165,7 +173,7 @@ glyphname = L;
 layers = (
 {
 layerId = "681AEF1D-5097-4A91-9334-5A92232AED3B";
-width = 600;
+width = 1600;
 }
 );
 unicode = 004C;
@@ -175,7 +183,7 @@ glyphname = M;
 layers = (
 {
 layerId = "681AEF1D-5097-4A91-9334-5A92232AED3B";
-width = 600;
+width = 1600;
 }
 );
 unicode = 004D;
@@ -185,7 +193,7 @@ glyphname = N;
 layers = (
 {
 layerId = "681AEF1D-5097-4A91-9334-5A92232AED3B";
-width = 600;
+width = 1600;
 }
 );
 unicode = 004E;
@@ -195,7 +203,7 @@ glyphname = O;
 layers = (
 {
 layerId = "681AEF1D-5097-4A91-9334-5A92232AED3B";
-width = 600;
+width = 1600;
 }
 );
 unicode = 004F;
@@ -205,7 +213,7 @@ glyphname = P;
 layers = (
 {
 layerId = "681AEF1D-5097-4A91-9334-5A92232AED3B";
-width = 600;
+width = 1600;
 }
 );
 unicode = 0050;
@@ -215,7 +223,7 @@ glyphname = Q;
 layers = (
 {
 layerId = "681AEF1D-5097-4A91-9334-5A92232AED3B";
-width = 600;
+width = 1600;
 }
 );
 unicode = 0051;
@@ -225,7 +233,7 @@ glyphname = R;
 layers = (
 {
 layerId = "681AEF1D-5097-4A91-9334-5A92232AED3B";
-width = 600;
+width = 1600;
 }
 );
 unicode = 0052;
@@ -235,7 +243,7 @@ glyphname = S;
 layers = (
 {
 layerId = "681AEF1D-5097-4A91-9334-5A92232AED3B";
-width = 600;
+width = 1600;
 }
 );
 unicode = 0053;
@@ -245,7 +253,7 @@ glyphname = T;
 layers = (
 {
 layerId = "681AEF1D-5097-4A91-9334-5A92232AED3B";
-width = 600;
+width = 1600;
 }
 );
 unicode = 0054;
@@ -255,7 +263,7 @@ glyphname = U;
 layers = (
 {
 layerId = "681AEF1D-5097-4A91-9334-5A92232AED3B";
-width = 600;
+width = 1600;
 }
 );
 unicode = 0055;
@@ -265,7 +273,7 @@ glyphname = V;
 layers = (
 {
 layerId = "681AEF1D-5097-4A91-9334-5A92232AED3B";
-width = 600;
+width = 1600;
 }
 );
 unicode = 0056;
@@ -275,7 +283,7 @@ glyphname = W;
 layers = (
 {
 layerId = "681AEF1D-5097-4A91-9334-5A92232AED3B";
-width = 600;
+width = 1600;
 }
 );
 unicode = 0057;
@@ -285,7 +293,7 @@ glyphname = X;
 layers = (
 {
 layerId = "681AEF1D-5097-4A91-9334-5A92232AED3B";
-width = 600;
+width = 1600;
 }
 );
 unicode = 0058;
@@ -295,7 +303,7 @@ glyphname = Y;
 layers = (
 {
 layerId = "681AEF1D-5097-4A91-9334-5A92232AED3B";
-width = 600;
+width = 1600;
 }
 );
 unicode = 0059;
@@ -305,7 +313,7 @@ glyphname = Z;
 layers = (
 {
 layerId = "681AEF1D-5097-4A91-9334-5A92232AED3B";
-width = 600;
+width = 1600;
 }
 );
 unicode = 005A;
@@ -314,8 +322,42 @@ unicode = 005A;
 glyphname = a;
 layers = (
 {
+anchors = (
+{
+name = "baseline-in";
+position = "{913, 76}";
+},
+{
+name = "baseline-out";
+position = "{1382, 76}";
+}
+);
+backgroundImage = {
+crop = "{{0, 0}, {62, 32}}";
+imagePath = "../images/images/33775230556-daf-600-variomatic-car-dealer-brochure-holland-19604_19.gif";
+locked = "1";
+transform = "{29.75851, 0, 0, 29.75851, 20, -146}";
+};
+components = (
+{
+alignment = -1;
+name = "lc-vert-x-stem";
+transform = "{1, 0, 0, 1, 600, 0}";
+},
+{
+alignment = -1;
+name = "lc-round";
+},
+{
+name = "baseline-in";
+},
+{
+name = "baseline-out";
+transform = "{1, 0, 0, 1, 795, 0}";
+}
+);
 layerId = "681AEF1D-5097-4A91-9334-5A92232AED3B";
-width = 600;
+width = 1600;
 }
 );
 unicode = 0061;
@@ -325,7 +367,7 @@ glyphname = b;
 layers = (
 {
 layerId = "681AEF1D-5097-4A91-9334-5A92232AED3B";
-width = 600;
+width = 1600;
 }
 );
 unicode = 0062;
@@ -334,8 +376,66 @@ unicode = 0062;
 glyphname = c;
 layers = (
 {
+anchors = (
+{
+name = "baseline-in";
+position = "{913, 76}";
+},
+{
+name = "baseline-out";
+position = "{1281, 76}";
+}
+);
+components = (
+{
+name = "baseline-in";
+},
+{
+name = "baseline-out";
+transform = "{1, 0, 0, 1, -87, 0}";
+}
+);
 layerId = "681AEF1D-5097-4A91-9334-5A92232AED3B";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"913 76 LINE",
+"679 76 OFFCURVE",
+"490 151 OFFCURVE",
+"490 241 CURVE SMOOTH",
+"490 330 OFFCURVE",
+"679 405 OFFCURVE",
+"913 405 CURVE",
+"913 481 LINE",
+"619 481 OFFCURVE",
+"381 373 OFFCURVE",
+"381 241 CURVE SMOOTH",
+"381 108 OFFCURVE",
+"619 0 OFFCURVE",
+"913 0 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"913 405 LINE",
+"1252 405 LINE",
+"1281 481 LINE",
+"913 481 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"913 0 LINE",
+"1281 0 LINE",
+"1281 76 LINE",
+"913 76 LINE"
+);
+}
+);
+width = 1600;
 }
 );
 unicode = 0063;
@@ -344,8 +444,102 @@ unicode = 0063;
 glyphname = d;
 layers = (
 {
+anchors = (
+{
+name = "baseline-in";
+position = "{835, 76}";
+},
+{
+name = "baseline-out";
+position = "{1291, 76}";
+}
+);
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"1129 0 OFFCURVE",
+"1367 108 OFFCURVE",
+"1367 241 CURVE SMOOTH",
+"1367 373 OFFCURVE",
+"1129 481 OFFCURVE",
+"835 481 CURVE SMOOTH",
+"541 481 OFFCURVE",
+"303 373 OFFCURVE",
+"303 241 CURVE SMOOTH",
+"303 108 OFFCURVE",
+"541 0 OFFCURVE",
+"835 0 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"601 77 OFFCURVE",
+"412 151 OFFCURVE",
+"412 241 CURVE SMOOTH",
+"412 330 OFFCURVE",
+"601 404 OFFCURVE",
+"835 404 CURVE SMOOTH",
+"1069 404 OFFCURVE",
+"1258 330 OFFCURVE",
+"1258 241 CURVE SMOOTH",
+"1258 151 OFFCURVE",
+"1069 77 OFFCURVE",
+"835 77 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"1198 0 LINE",
+"1307 0 LINE",
+"1672 870 LINE",
+"1563 870 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"-120 0 LINE",
+"835 0 LINE",
+"835 76 LINE",
+"-91 76 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1290 0 LINE",
+"1825 0 LINE",
+"1854 76 LINE",
+"1290 76 LINE"
+);
+}
+);
+};
+components = (
+{
+alignment = -1;
+name = "lc-round";
+transform = "{1, 0, 0, 1, -78, 0}";
+},
+{
+alignment = -1;
+name = "lc-vert-asc-stem";
+transform = "{1, 0, 0, 1, 902, 0}";
+},
+{
+name = "baseline-in";
+},
+{
+name = "baseline-out";
+transform = "{1, 0, 0, 1, 700, 0}";
+}
+);
 layerId = "681AEF1D-5097-4A91-9334-5A92232AED3B";
-width = 600;
+width = 1600;
 }
 );
 unicode = 0064;
@@ -355,7 +549,7 @@ glyphname = e;
 layers = (
 {
 layerId = "681AEF1D-5097-4A91-9334-5A92232AED3B";
-width = 600;
+width = 1600;
 }
 );
 unicode = 0065;
@@ -364,8 +558,66 @@ unicode = 0065;
 glyphname = f;
 layers = (
 {
+backgroundImage = {
+crop = "{{0, 0}, {208, 194}}";
+imagePath = "../images/images/33775230556-daf-600-variomatic-car-dealer-brochure-holland-19604_05.jpg";
+locked = "1";
+transform = "{10.15597, 0, 0, 10.15597, -333, -914}";
+};
+guideLines = (
+{
+angle = 67.2176;
+position = "{953, 375}";
+},
+{
+angle = 188.7462;
+position = "{718, -147}";
+}
+);
 layerId = "681AEF1D-5097-4A91-9334-5A92232AED3B";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"322 -867 LINE",
+"431 -867 LINE",
+"1161 870 LINE",
+"1052 870 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"-102 0 LINE",
+"1673 0 LINE",
+"1702 76 LINE",
+"-73 76 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"-238 -294 LINE",
+"1673 0 LINE",
+"1673 76 LINE",
+"-214 -215 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"715 -227 OFFCURVE",
+"732 -640 OFFCURVE",
+"322 -867 CURVE",
+"432 -867 LINE",
+"812 -720 OFFCURVE",
+"805 -227 OFFCURVE",
+"805 0 CURVE",
+"715 0 LINE"
+);
+}
+);
+width = 1600;
 }
 );
 unicode = 0066;
@@ -375,7 +627,7 @@ glyphname = g;
 layers = (
 {
 layerId = "681AEF1D-5097-4A91-9334-5A92232AED3B";
-width = 600;
+width = 1600;
 }
 );
 unicode = 0067;
@@ -385,7 +637,7 @@ glyphname = h;
 layers = (
 {
 layerId = "681AEF1D-5097-4A91-9334-5A92232AED3B";
-width = 600;
+width = 1600;
 }
 );
 unicode = 0068;
@@ -394,18 +646,78 @@ unicode = 0068;
 glyphname = i;
 layers = (
 {
+components = (
+{
+name = idotless;
+},
+{
+name = dotaccentcomb;
+transform = "{1, 0, 0, 1, -34, 0}";
+}
+);
 layerId = "681AEF1D-5097-4A91-9334-5A92232AED3B";
-width = 600;
+width = 1200;
 }
 );
 unicode = 0069;
+},
+{
+glyphname = idotless;
+layers = (
+{
+anchors = (
+{
+name = "baseline-in-short";
+position = "{511, 76}";
+},
+{
+name = "baseline-out-long";
+position = "{587, 76}";
+},
+{
+name = top;
+position = "{651, 450}";
+}
+);
+backgroundImage = {
+crop = "{{0, 0}, {25, 32}}";
+imagePath = "../images/images/33775230556-daf-600-variomatic-car-dealer-brochure-holland-19604_16.gif";
+locked = "1";
+transform = "{32.07143, 0, 0, 32.07143, 242, -160}";
+};
+components = (
+{
+alignment = -1;
+name = "baseline-in-short";
+},
+{
+alignment = -1;
+name = "baseline-out-long";
+transform = "{1, 0, 0, 1, 500, 0}";
+},
+{
+alignment = -1;
+name = "lc-vert-x-stem-curved";
+}
+);
+guideLines = (
+{
+angle = 69.3;
+position = "{756, 585}";
+}
+);
+layerId = "681AEF1D-5097-4A91-9334-5A92232AED3B";
+width = 1200;
+}
+);
+unicode = 0131;
 },
 {
 glyphname = j;
 layers = (
 {
 layerId = "681AEF1D-5097-4A91-9334-5A92232AED3B";
-width = 600;
+width = 1600;
 }
 );
 unicode = 006A;
@@ -415,7 +727,7 @@ glyphname = k;
 layers = (
 {
 layerId = "681AEF1D-5097-4A91-9334-5A92232AED3B";
-width = 600;
+width = 1600;
 }
 );
 unicode = 006B;
@@ -425,7 +737,7 @@ glyphname = l;
 layers = (
 {
 layerId = "681AEF1D-5097-4A91-9334-5A92232AED3B";
-width = 600;
+width = 1600;
 }
 );
 unicode = 006C;
@@ -435,7 +747,7 @@ glyphname = m;
 layers = (
 {
 layerId = "681AEF1D-5097-4A91-9334-5A92232AED3B";
-width = 600;
+width = 1600;
 }
 );
 unicode = 006D;
@@ -445,7 +757,7 @@ glyphname = n;
 layers = (
 {
 layerId = "681AEF1D-5097-4A91-9334-5A92232AED3B";
-width = 600;
+width = 1600;
 }
 );
 unicode = 006E;
@@ -455,7 +767,61 @@ glyphname = o;
 layers = (
 {
 layerId = "681AEF1D-5097-4A91-9334-5A92232AED3B";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"1207 0 OFFCURVE",
+"1445 108 OFFCURVE",
+"1445 241 CURVE SMOOTH",
+"1445 373 OFFCURVE",
+"1207 481 OFFCURVE",
+"913 481 CURVE SMOOTH",
+"619 481 OFFCURVE",
+"381 373 OFFCURVE",
+"381 241 CURVE SMOOTH",
+"381 108 OFFCURVE",
+"619 0 OFFCURVE",
+"913 0 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"679 77 OFFCURVE",
+"490 151 OFFCURVE",
+"490 241 CURVE SMOOTH",
+"490 330 OFFCURVE",
+"679 404 OFFCURVE",
+"913 404 CURVE SMOOTH",
+"1147 404 OFFCURVE",
+"1336 330 OFFCURVE",
+"1336 241 CURVE SMOOTH",
+"1336 151 OFFCURVE",
+"1147 77 OFFCURVE",
+"913 77 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"-112 0 LINE",
+"913 0 LINE",
+"913 76 LINE",
+"-83 76 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"914 405 LINE",
+"1853 405 LINE",
+"1882 481 LINE",
+"914 481 LINE"
+);
+}
+);
+width = 1600;
 }
 );
 unicode = 006F;
@@ -465,7 +831,7 @@ glyphname = p;
 layers = (
 {
 layerId = "681AEF1D-5097-4A91-9334-5A92232AED3B";
-width = 600;
+width = 1600;
 }
 );
 unicode = 0070;
@@ -475,7 +841,7 @@ glyphname = q;
 layers = (
 {
 layerId = "681AEF1D-5097-4A91-9334-5A92232AED3B";
-width = 600;
+width = 1600;
 }
 );
 unicode = 0071;
@@ -485,7 +851,51 @@ glyphname = r;
 layers = (
 {
 layerId = "681AEF1D-5097-4A91-9334-5A92232AED3B";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"385 476 LINE",
+"205 0 LINE",
+"314 0 LINE",
+"494 476 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"334 76 LINE",
+"277 0 LINE",
+"1302 0 LINE",
+"1330 76 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"-35 76 LINE",
+"-63 0 LINE",
+"222 0 LINE",
+"279 76 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"833 481 LINE",
+"595 481 OFFCURVE",
+"394 410 OFFCURVE",
+"326 314 CURVE",
+"301 241 LINE",
+"404 248 LINE",
+"415 267 LINE",
+"448 344 OFFCURVE",
+"622 404 OFFCURVE",
+"833 404 CURVE"
+);
+}
+);
+width = 1200;
 }
 );
 unicode = 0072;
@@ -495,7 +905,7 @@ glyphname = s;
 layers = (
 {
 layerId = "681AEF1D-5097-4A91-9334-5A92232AED3B";
-width = 600;
+width = 1600;
 }
 );
 unicode = 0073;
@@ -505,7 +915,7 @@ glyphname = t;
 layers = (
 {
 layerId = "681AEF1D-5097-4A91-9334-5A92232AED3B";
-width = 600;
+width = 1600;
 }
 );
 unicode = 0074;
@@ -515,7 +925,7 @@ glyphname = u;
 layers = (
 {
 layerId = "681AEF1D-5097-4A91-9334-5A92232AED3B";
-width = 600;
+width = 1600;
 }
 );
 unicode = 0075;
@@ -524,8 +934,61 @@ unicode = 0075;
 glyphname = v;
 layers = (
 {
+anchors = (
+{
+name = "_xheight-in";
+position = "{647, 481}";
+},
+{
+name = "xheight-out";
+position = "{1193, 481}";
+}
+);
+backgroundImage = {
+crop = "{{0, 0}, {38, 32}}";
+imagePath = "../images/images/33775230556-daf-600-variomatic-car-dealer-brochure-holland-19604_13.gif";
+locked = "1";
+transform = "{31.944, 0, 0, 31.944, 192, -191}";
+};
+components = (
+{
+name = "xheight-in";
+},
+{
+name = "xheight-out";
+},
+{
+name = "lc-vert-x-stem";
+transform = "{1, 0, 0, 1, -320, 0}";
+}
+);
 layerId = "681AEF1D-5097-4A91-9334-5A92232AED3B";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"409 0 LINE",
+"748 0 LINE",
+"777 76 LINE",
+"438 76 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1028 302 OFFCURVE",
+"914 146 OFFCURVE",
+"757 76 CURVE",
+"727 0 LINE",
+"813 0 LINE",
+"1048 132 OFFCURVE",
+"1116 281 OFFCURVE",
+"1187 481 CURVE",
+"1078 481 LINE"
+);
+}
+);
+width = 1600;
 }
 );
 unicode = 0076;
@@ -535,7 +998,7 @@ glyphname = w;
 layers = (
 {
 layerId = "681AEF1D-5097-4A91-9334-5A92232AED3B";
-width = 600;
+width = 1600;
 }
 );
 unicode = 0077;
@@ -545,7 +1008,7 @@ glyphname = x;
 layers = (
 {
 layerId = "681AEF1D-5097-4A91-9334-5A92232AED3B";
-width = 600;
+width = 1600;
 }
 );
 unicode = 0078;
@@ -555,7 +1018,7 @@ glyphname = y;
 layers = (
 {
 layerId = "681AEF1D-5097-4A91-9334-5A92232AED3B";
-width = 600;
+width = 1600;
 }
 );
 unicode = 0079;
@@ -565,7 +1028,7 @@ glyphname = z;
 layers = (
 {
 layerId = "681AEF1D-5097-4A91-9334-5A92232AED3B";
-width = 600;
+width = 1600;
 }
 );
 unicode = 007A;
@@ -575,7 +1038,7 @@ glyphname = zero;
 layers = (
 {
 layerId = "681AEF1D-5097-4A91-9334-5A92232AED3B";
-width = 600;
+width = 1600;
 }
 );
 unicode = 0030;
@@ -585,7 +1048,7 @@ glyphname = one;
 layers = (
 {
 layerId = "681AEF1D-5097-4A91-9334-5A92232AED3B";
-width = 600;
+width = 1600;
 }
 );
 unicode = 0031;
@@ -595,7 +1058,7 @@ glyphname = two;
 layers = (
 {
 layerId = "681AEF1D-5097-4A91-9334-5A92232AED3B";
-width = 600;
+width = 1600;
 }
 );
 unicode = 0032;
@@ -605,7 +1068,7 @@ glyphname = three;
 layers = (
 {
 layerId = "681AEF1D-5097-4A91-9334-5A92232AED3B";
-width = 600;
+width = 1600;
 }
 );
 unicode = 0033;
@@ -615,7 +1078,7 @@ glyphname = four;
 layers = (
 {
 layerId = "681AEF1D-5097-4A91-9334-5A92232AED3B";
-width = 600;
+width = 1600;
 }
 );
 unicode = 0034;
@@ -625,7 +1088,7 @@ glyphname = five;
 layers = (
 {
 layerId = "681AEF1D-5097-4A91-9334-5A92232AED3B";
-width = 600;
+width = 1600;
 }
 );
 unicode = 0035;
@@ -635,7 +1098,7 @@ glyphname = six;
 layers = (
 {
 layerId = "681AEF1D-5097-4A91-9334-5A92232AED3B";
-width = 600;
+width = 1600;
 }
 );
 unicode = 0036;
@@ -645,7 +1108,7 @@ glyphname = seven;
 layers = (
 {
 layerId = "681AEF1D-5097-4A91-9334-5A92232AED3B";
-width = 600;
+width = 1600;
 }
 );
 unicode = 0037;
@@ -655,7 +1118,7 @@ glyphname = eight;
 layers = (
 {
 layerId = "681AEF1D-5097-4A91-9334-5A92232AED3B";
-width = 600;
+width = 1600;
 }
 );
 unicode = 0038;
@@ -665,7 +1128,7 @@ glyphname = nine;
 layers = (
 {
 layerId = "681AEF1D-5097-4A91-9334-5A92232AED3B";
-width = 600;
+width = 1600;
 }
 );
 unicode = 0039;
@@ -675,7 +1138,7 @@ glyphname = period;
 layers = (
 {
 layerId = "681AEF1D-5097-4A91-9334-5A92232AED3B";
-width = 600;
+width = 1600;
 }
 );
 unicode = 002E;
@@ -685,7 +1148,7 @@ glyphname = comma;
 layers = (
 {
 layerId = "681AEF1D-5097-4A91-9334-5A92232AED3B";
-width = 600;
+width = 1600;
 }
 );
 unicode = 002C;
@@ -695,7 +1158,7 @@ glyphname = hyphen;
 layers = (
 {
 layerId = "681AEF1D-5097-4A91-9334-5A92232AED3B";
-width = 600;
+width = 1600;
 }
 );
 unicode = 002D;
@@ -705,15 +1168,328 @@ glyphname = space;
 layers = (
 {
 layerId = "681AEF1D-5097-4A91-9334-5A92232AED3B";
-width = 600;
+width = 1600;
 }
 );
 unicode = 0020;
+},
+{
+glyphname = dotaccentcomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{685, 450}";
+},
+{
+name = top;
+position = "{782, 706}";
+}
+);
+layerId = "681AEF1D-5097-4A91-9334-5A92232AED3B";
+paths = (
+{
+closed = 1;
+nodes = (
+"727 706 LINE",
+"691 610 LINE",
+"800 610 LINE",
+"836 706 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+unicode = 0307;
+},
+{
+glyphname = "lc-vert-x-stem";
+layers = (
+{
+layerId = "681AEF1D-5097-4A91-9334-5A92232AED3B";
+paths = (
+{
+closed = 1;
+nodes = (
+"676 0 LINE",
+"785 0 LINE",
+"967 481 LINE",
+"858 481 LINE"
+);
+}
+);
+width = 1600;
+}
+);
+},
+{
+glyphname = "lc-round";
+layers = (
+{
+layerId = "681AEF1D-5097-4A91-9334-5A92232AED3B";
+paths = (
+{
+closed = 1;
+nodes = (
+"1207 0 OFFCURVE",
+"1445 108 OFFCURVE",
+"1445 241 CURVE SMOOTH",
+"1445 373 OFFCURVE",
+"1207 481 OFFCURVE",
+"913 481 CURVE SMOOTH",
+"619 481 OFFCURVE",
+"381 373 OFFCURVE",
+"381 241 CURVE SMOOTH",
+"381 108 OFFCURVE",
+"619 0 OFFCURVE",
+"913 0 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"679 77 OFFCURVE",
+"490 151 OFFCURVE",
+"490 241 CURVE SMOOTH",
+"490 330 OFFCURVE",
+"679 404 OFFCURVE",
+"913 404 CURVE SMOOTH",
+"1147 404 OFFCURVE",
+"1336 330 OFFCURVE",
+"1336 241 CURVE SMOOTH",
+"1336 151 OFFCURVE",
+"1147 77 OFFCURVE",
+"913 77 CURVE SMOOTH"
+);
+}
+);
+width = 1600;
+}
+);
+},
+{
+glyphname = "baseline-in";
+layers = (
+{
+anchors = (
+{
+name = "_baseline-in";
+position = "{913, 76}";
+}
+);
+layerId = "681AEF1D-5097-4A91-9334-5A92232AED3B";
+paths = (
+{
+closed = 1;
+nodes = (
+"-112 0 LINE",
+"913 0 LINE",
+"913 76 LINE",
+"-83 76 LINE"
+);
+}
+);
+width = 1600;
+}
+);
+},
+{
+glyphname = "baseline-out";
+layers = (
+{
+anchors = (
+{
+name = "_baseline-out";
+position = "{588, 74}";
+}
+);
+layerId = "681AEF1D-5097-4A91-9334-5A92232AED3B";
+paths = (
+{
+closed = 1;
+nodes = (
+"587 0 LINE",
+"872 0 LINE",
+"901 76 LINE",
+"587 76 LINE"
+);
+}
+);
+width = 1600;
+}
+);
+},
+{
+glyphname = "lc-vert-asc-stem";
+layers = (
+{
+layerId = "681AEF1D-5097-4A91-9334-5A92232AED3B";
+paths = (
+{
+closed = 1;
+nodes = (
+"296 0 LINE",
+"405 0 LINE",
+"770 870 LINE",
+"661 870 LINE"
+);
+}
+);
+width = 900;
+}
+);
+},
+{
+glyphname = "xheight-in";
+layers = (
+{
+anchors = (
+{
+name = "_xheight-in";
+position = "{581, 481}";
+}
+);
+layerId = "681AEF1D-5097-4A91-9334-5A92232AED3B";
+paths = (
+{
+closed = 1;
+nodes = (
+"-87 405 LINE",
+"552 405 LINE",
+"581 481 LINE",
+"-58 481 LINE"
+);
+}
+);
+width = 1600;
+}
+);
+},
+{
+glyphname = "xheight-out";
+layers = (
+{
+anchors = (
+{
+name = "_xheight-out";
+position = "{1113, 481}";
+}
+);
+layerId = "681AEF1D-5097-4A91-9334-5A92232AED3B";
+paths = (
+{
+closed = 1;
+nodes = (
+"1113 405 LINE",
+"1852 405 LINE",
+"1881 481 LINE",
+"1113 481 LINE"
+);
+}
+);
+width = 1600;
+}
+);
+},
+{
+glyphname = "baseline-in-short";
+layers = (
+{
+anchors = (
+{
+name = "_baseline-in";
+position = "{513, 77}";
+}
+);
+layerId = "681AEF1D-5097-4A91-9334-5A92232AED3B";
+paths = (
+{
+closed = 1;
+nodes = (
+"-112 0 LINE",
+"513 0 LINE",
+"513 76 LINE",
+"-83 76 LINE"
+);
+}
+);
+width = 1600;
+}
+);
+},
+{
+glyphname = "baseline-out-long";
+layers = (
+{
+anchors = (
+{
+name = "_baseline-out-long";
+position = "{87, 76}";
+}
+);
+layerId = "681AEF1D-5097-4A91-9334-5A92232AED3B";
+paths = (
+{
+closed = 1;
+nodes = (
+"87 0 LINE",
+"672 0 LINE",
+"701 76 LINE",
+"87 76 LINE"
+);
+}
+);
+width = 900;
+}
+);
+},
+{
+glyphname = "lc-vert-x-stem-curved";
+layers = (
+{
+layerId = "681AEF1D-5097-4A91-9334-5A92232AED3B";
+paths = (
+{
+closed = 1;
+nodes = (
+"517 321 OFFCURVE",
+"487 160 OFFCURVE",
+"506 0 CURVE",
+"615 0 LINE",
+"586 160 OFFCURVE",
+"636 321 OFFCURVE",
+"717 481 CURVE",
+"608 481 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+}
+);
+instances = (
+{
+instanceInterpolations = {
+"681AEF1D-5097-4A91-9334-5A92232AED3B" = 1;
+};
+name = Regular;
 }
 );
 manufacturer = "Measure + Fit";
 manufacturerURL = www.measureandfit.co;
-unitsPerEm = 1000;
+unitsPerEm = 1600;
+userData = {
+GSDimensionPlugin.Dimensions = {
+"681AEF1D-5097-4A91-9334-5A92232AED3B" = {
+oH = "77";
+oV = "109";
+tH = "76";
+};
+};
+};
 versionMajor = 1;
 versionMinor = 0;
 }
