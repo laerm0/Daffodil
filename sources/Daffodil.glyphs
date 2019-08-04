@@ -1,5 +1,8 @@
 {
 .appVersion = "1225";
+DisplayStrings = (
+r
+);
 copyright = "Copyright © 2019 by Micah Stupak. All rights reserved.";
 customParameters = (
 {
